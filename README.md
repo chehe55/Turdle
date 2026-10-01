@@ -1,6 +1,6 @@
 # Turdle 🐢
 
-Turdle is a small Java Swing word game with a turtle theme and two ways to play: find the hidden word, or try your best to avoid it.
+Turdle is a small Java Swing word game with a turtle theme and two ways to play: find the hidden word (wordle), or try your best to avoid it (absurdle).
 
 ## Features
 
